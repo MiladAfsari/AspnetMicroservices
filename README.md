@@ -82,7 +82,7 @@ docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
 * **pgAdmin PostgreSQL -> http://host.docker.internal:5050**   -- admin@aspnetrun.com/admin1234
 
 
-## Authors
+## Author
 
 * **Milad Afsari** 
 
